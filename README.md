@@ -1,3 +1,5 @@
 # lynxsecure_arm_docs
 
 Donate bitcoin: 1Kejn4Qe2zQB37ukEX2Y1vnLqKYQnEZRXP
+
+ETH: 0x95aa2FCFc459574DCE1482071fc049B766E21454
